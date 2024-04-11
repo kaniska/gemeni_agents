@@ -1,0 +1,17 @@
+{
+  "defaultLanguageCode": "en",
+  "timeZone": "America/Los_Angeles",
+  "enableLogging": true,
+  "projectNumber": 143301740430,
+  "enableStackdriverLogging": true,
+  "advancedSettings": {
+    "loggingSettings": {
+      "enableStackdriverLogging": true,
+      "enableInteractionLogging": true
+    }
+  },
+  "genAppBuilderSettings": {
+    "engine": "projects/143301740430/locations/us/collections/default_collection/engines/f1e249f7-bb24-47f9-97b9-3932301f112c"
+  },
+  "startPlaybook": "Medical Insurance Call Center Agent"
+}

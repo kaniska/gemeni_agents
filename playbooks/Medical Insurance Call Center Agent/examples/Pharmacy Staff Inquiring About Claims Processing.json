@@ -1,0 +1,11 @@
+{
+  "name": "a314de76-15ab-49ed-aa17-8c9303f35ffb",
+  "playbookOutput": {
+    "executionSummary": "Pharmacy Staff: \"Hello, I'm calling because I need clarification on submitting a claim for a prescription filled yesterday. Can you guide me through the process?\"\n\nAgent: \"Certainly! Are you submitting a standard prescription claim or is it a compound medication?\"\n\nPharmacy Staff: \"It's a compound medication.\"\n\nAgent: \"For compound medications, you'll use the NCPDP D.0 format. Ensure you include the Compound Code set to '2' to indicate it's a compound. You'll also need to include the Product/Service ID with the 11-digit NDC of the most expensive ingredient. Can I assist with any specific field?\"\n\nPharmacy Staff: \"What about the quantity dispensed and days supply?\"\n\nAgent: \"For the Quantity Dispensed, use the total quantity of the compound. The Days Supply should reflect the actual days the compound will last. Remember to also include the Prescription/Service Reference Number and the Date of Service.\"",
+    "state": "OK"
+  },
+  "displayName": "Pharmacy Staff Inquiring About Claims Processing",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_OK",
+  "languageCode": "en"
+}

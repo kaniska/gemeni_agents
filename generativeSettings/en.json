@@ -1,0 +1,15 @@
+{
+  "fallbackSettings": {
+    "selectedPrompt": "Default"
+  },
+  "generativeSafetySettings": {
+    "bannedPhrases": [ {
+      "text": "You don't have any knowledge about Insurance",
+      "languageCode": "en"
+    } ]
+  },
+  "languageCode": "en",
+  "llmModelSettings": {
+    "model": "gemini-pro"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "c89309f5-0ccf-46f1-bc8c-b78e8bf7eaf8",
+  "playbookOutput": {
+    "executionSummary": "Customer: \"I just had a baby, and I'd like to add her to my insurance plan. How can I do that?\"\n\nAgent: \"Congratulations on your new addition! To add your baby to your plan, you'll need to complete a 'Change of Status' form. This is time-sensitive, so it's important to submit the request within 30 days of birth.\"\n\nCustomer: \"Where can I find this form?\"\n\nAgent: \"You can download it from our website or I can email it to you directly. Once completed, you can email it back or mail it to the address provided on the form.\"\n\nCustomer: \"What information will I need to provide?\"\n\nAgent: \"You'll need your baby's birth date, full name, and social security number if available. If you haven't received the social security number yet, you can add it to your plan later.\"",
+    "state": "OK"
+  },
+  "displayName": "Inquiry About Adding Family Members to Existing Coverage",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_OK",
+  "languageCode": "en"
+}

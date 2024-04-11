@@ -1,0 +1,11 @@
+{
+  "name": "21efdf7b-8ff5-40d1-8e09-cfcaa77ffeb0",
+  "playbookOutput": {
+    "executionSummary": "User: \"I heard there are many cases of insurance fraud related to pharmacies. What measures do you have in place to prevent this?\"\n\nAgent: \"We're very proactive about preventing and detecting fraud within our network. We have a comprehensive Fraud Prevention Program that includes several key components. First, we conduct detailed audits of pharmacy claims to identify any irregular patterns or discrepancies. This includes reviewing prescriptions dispensed, comparing them against claims submitted, and verifying the legitimacy of those claims.\"\n\nAgent: \"Additionally, we require all participating pharmacies to report any suspected or potential fraud, waste, or abuse (FWA) events or activities directly to us. Our program also involves continuous education for our providers on the types of fraud that can occur and how to recognize them.\"\n\nAgent: \"We use advanced analytics to monitor for signs of fraud actively. This includes looking for billing for a brand name drug when a generic was dispensed, overbilling the quantity prescribed, or billing for services not rendered.\"\n\nAgent: \"When suspicious activity is detected, our dedicated team investigates thoroughly. Pharmacies found in violation of our policies may face sanctions, including termination from our network and recovery of inappropriately paid funds. Our efforts to combat fraud are ongoing and evolving as we develop new strategies and technologies to protect our members and providers.\"\n\nUser: \"It's reassuring to know there are strict measures in place. How can I report suspicious activity if I encounter it?\"\n\nAgent: \"If you suspect any fraudulent activity, please don't hesitate to contact us directly through our customer service line or by email. Your vigilance is invaluable to our fraud prevention efforts. We ensure confidentiality and take every report seriously, with thorough investigations following each report.\"",
+    "state": "OK"
+  },
+  "displayName": "Inquiry About Fraud Prevention Mechanisms",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_OK",
+  "languageCode": "en"
+}

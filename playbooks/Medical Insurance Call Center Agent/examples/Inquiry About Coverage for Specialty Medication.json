@@ -1,0 +1,11 @@
+{
+  "name": "0933d65b-5879-459e-82c4-9c1968ad4db6",
+  "playbookOutput": {
+    "executionSummary": "Customer: \"Hi, I was recently prescribed a specialty medication. I want to know if my plan covers it and how much I would need to pay.\"\n\nAgent: \"Sure, I can help with that. May I have the name of the medication and your plan ID?\"\n\nCustomer: \"Yes, the medication is [Medication Name], and my plan ID is [Plan ID].\"\n\nAgent: \"Thank you. Let me check... Your plan does cover [Medication Name], but it's subject to prior authorization to ensure it's used appropriately. After approval, you have a copayment of $[Amount] for a month's supply.\"\n\nCustomer: \"How do I get the prior authorization?\"\n\nAgent: \"Your healthcare provider will need to submit a prior authorization request on your behalf. They'll include your medical history and the reason for prescribing this specific medication. Once we receive the request, it's typically processed within [X] business days.\"",
+    "state": "OK"
+  },
+  "displayName": "Inquiry About Coverage for Specialty Medication",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_OK",
+  "languageCode": "en"
+}

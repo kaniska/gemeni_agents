@@ -1,0 +1,11 @@
+{
+  "name": "51b5821b-b72b-4b55-a404-9db2cc6a714f",
+  "playbookOutput": {
+    "executionSummary": "Customer: \"I had a prescription filled last week and was told it would be covered, but I haven't seen any updates. Can you check the status of my claim?\"\n\nAgent: \"Of course! I'll need the Prescription/Service Reference Number and the date you filled it. Do you have that handy?\"\n\nCustomer: \"Yes, the reference number is 123456, and it was filled on April 15th.\"\n\nAgent: \"Thank you. Let me pull that up... It looks like your claim was processed successfully on April 16th. Your coverage applied, and there's no remaining balance. If there's a discrepancy, I recommend contacting the pharmacy to ensure they've updated their records.\"",
+    "state": "OK"
+  },
+  "displayName": "Customer Asking About Prescription Claim Status",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_OK",
+  "languageCode": "en"
+}

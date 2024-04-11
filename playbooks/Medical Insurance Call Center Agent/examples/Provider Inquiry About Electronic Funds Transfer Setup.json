@@ -1,0 +1,11 @@
+{
+  "name": "fe4fbeb9-4e5d-4706-83f0-57e4e10a7db4",
+  "playbookOutput": {
+    "executionSummary": "Provider: \"I want to set up ACH/EFT payments for my pharmacy. Can you guide me through the process?\"\n\nAgent: \"Absolutely. You'll need to complete the ACH/EFT Request Form. This requires your banking information, including the bank name, routing number, and account number. Did you receive the form, or do you need it sent to you?\"\n\nProvider: \"I need the form sent to me, please.\"\n\nAgent: \"I can email that to you directly. Once you fill it out, you can email it back to provider.relations@changehealthcare.com or fax it to 615-340-6160. Ensure you include a voided check or a bank letter to validate the account information.\"\n\nProvider: \"And how long does it take to process?\"\n\nAgent: \"Once we receive your completed form, the information will be effective approximately 2 weeks from the date of receipt. You'll receive an email confirmation once it's processed.\"",
+    "state": "OK"
+  },
+  "displayName": "Provider Inquiry About Electronic Funds Transfer Setup",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_OK",
+  "languageCode": "en"
+}
